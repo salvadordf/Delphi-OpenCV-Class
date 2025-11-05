@@ -108,7 +108,6 @@ If you want to support me and my work, you can:
 * <a href="https://liberapay.com/Laex/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
 * [Boosty](https://boosty.to/laex/donate)
 * [Patreon](https://patreon.com/laentir?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink)
-* BTC: [3MTXVtRgQnA22EtBxP97Nws6GS8autp38s](bitcoin:3MTXVtRgQnA22EtBxP97Nws6GS8autp38s) 
 ---
 [1]: https://github.com/Laex/Delphi-OpenCV-Class/archive/refs/heads/main.zip
 [2]: https://github.com/Laex/Delphi-OpenCV-Class.git
